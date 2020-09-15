@@ -6,4 +6,4 @@
 
 
 ## No Theme, Dark Mode
-![Link to Preview](https://i.imgur.com/w6QPGUp.png)
+![Link to Preview](https://i.imgur.com/nXfrCj7.png)
